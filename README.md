@@ -1,3 +1,3 @@
 # Unlock Future & Lucky Candies
 
-published at [https://unlock.jusot.com](https://unlock.jusot.com)
+published at [http://unlock.jusot.com](https://unlock.jusot.com)
